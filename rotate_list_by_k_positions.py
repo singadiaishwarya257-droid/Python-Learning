@@ -6,4 +6,4 @@ k = k % len(numbers)
 rotated_list = numbers[-k:] + numbers[:-k]
 
 print("Original List:", numbers)
-print("Rotated List:", rotated_list)
+print("Rotated List:", rotated_list)S
